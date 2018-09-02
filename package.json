@@ -1,0 +1,20 @@
+{
+  "name": "genie-shared-data",
+  "description": "Shared constants and strings for use in genie-js modules.",
+  "version": "0.0.0",
+  "author": "Renée Kooi <renee@kooi.me>",
+  "bugs": {
+    "url": "https://github.com/goto-bus-stop/genie-shared-data/issues"
+  },
+  "homepage": "https://github.com/goto-bus-stop/genie-shared-data",
+  "keywords": [],
+  "license": "GPL-3.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goto-bus-stop/genie-shared-data.git"
+  },
+  "scripts": {
+    "test": "exit 0"
+  }
+}
