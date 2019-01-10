@@ -1,7 +1,7 @@
 {
   "name": "genie-shared-data",
   "description": "Shared constants and strings for use in genie-js modules.",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Renée Kooi <renee@kooi.me>",
   "bugs": {
     "url": "https://github.com/genie-js/genie-shared-data/issues"
