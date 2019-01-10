@@ -4,15 +4,15 @@
   "version": "0.0.0",
   "author": "Renée Kooi <renee@kooi.me>",
   "bugs": {
-    "url": "https://github.com/goto-bus-stop/genie-shared-data/issues"
+    "url": "https://github.com/genie-js/genie-shared-data/issues"
   },
-  "homepage": "https://github.com/goto-bus-stop/genie-shared-data",
+  "homepage": "https://github.com/genie-js/genie-shared-data",
   "keywords": [],
   "license": "GPL-3.0",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/goto-bus-stop/genie-shared-data.git"
+    "url": "https://github.com/genie-js/genie-shared-data.git"
   },
   "scripts": {
     "test": "exit 0"
