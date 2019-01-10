@@ -17,9 +17,41 @@ npm install genie-shared-data
 
 ## API
 
+### ageNames.json
+
+Human readable names for the four ages.
+
+### ages.json
+
+Constant names for the IDs of the four ages.
+
+### civilizationNames.json
+
+Human readable names for the HD Edition civilizations, including expansion packs and reserved names.
+
+### civilizations.json
+
+Constant names for the HD Edition civilizations, including expansion packs and reserved IDs.
+
+### gaiaObjectColors.json
+
+Formatted hex colors #rrggbb for some object IDs that have a special color on the minimap, such as deer, fish, and gold/stone mines.
+
+### playerColors.json
+
+Formatted hex colors #rrggbb for the player colours.
+
+### researchNames.json
+
+Human readable names for researches.
+
 ### resourceNames.json
 
 Human readable names for player resources.
+
+### terrainColors.json
+
+Formatted hex colors #rrggbb for terrains, as rendered on the minimap.
 
 ### triggerConditions.json
 
